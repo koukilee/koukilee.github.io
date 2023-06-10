@@ -17,3 +17,11 @@
 [data-theme="dark"] #page-header::before {
     background: transparent !important;
 }
+
+@font-face {
+    font-family: 'YSHST';
+    src: url(/font/yt.woff2); 
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;  
+}
