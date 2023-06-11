@@ -1,0 +1,1 @@
+var posts=["2023/06/11/常用板子/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
