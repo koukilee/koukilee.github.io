@@ -1,1 +1,1 @@
-var posts=["2023/06/11/常用板子/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/06/11/常用板子/","2023/06/24/607选博士 题解/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
